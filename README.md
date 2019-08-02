@@ -4,3 +4,5 @@
 3. [Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.](Day003.md)
 4. [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? ](Day004.md)
+4. [If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
+What is the JavaScript code you got?](Day005.md)
