@@ -9,4 +9,4 @@ What is the JavaScript code you got?](Day005.md)
 5. [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got?How many blocks did you have left? 
 Assign it to the variable remaining_blocks.](Day006.md)
- 
+6. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](Day007.md)
