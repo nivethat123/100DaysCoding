@@ -11,4 +11,5 @@ What is the JavaScript code you got?How many blocks did you have left?
 Assign it to the variable remaining_blocks.](Day006.md)
 7. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](Day007.md)
 8. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](Day008.md)
+9. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](Day008.md)
 
