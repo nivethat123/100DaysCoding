@@ -18,4 +18,4 @@ The program should print two numbers: the number of hours (between 0 and 23) and
 12. [Given a three-digit number. Find the sum of its digits.](Day012.md)
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day013.md)
 14. [Given three integers, print the least of them.](Day014.md)
-15. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day014.md)
+15. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day015.md)
