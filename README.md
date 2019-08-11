@@ -17,3 +17,4 @@ The program should print two numbers: the number of hours (between 0 and 23) and
 11. [Write a program to calculate the distance between two points.](Day011.md)
 12. [Given a three-digit number. Find the sum of its digits.](Day012.md)
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day013.md)
+14. [Given three integers, print the least of them.](Day014.md)
