@@ -20,3 +20,6 @@ The program should print two numbers: the number of hours (between 0 and 23) and
 14. [Given three integers, print the least of them.](Day014.md)
 15. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day015.md)
 16. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](Day016.md)
+17. [Read two inputs. The first input is a digit. The second input is a number. 
+Is the digit present in the number? If yes, return True.
+If no, return False.](Day017.md)
